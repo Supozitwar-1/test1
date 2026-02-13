@@ -1,0 +1,3 @@
+document.getElementById("clic-btn").addEventListener("click", function() {
+    alert("Bravo, tu as cliqué sur le bouton !");
+});
